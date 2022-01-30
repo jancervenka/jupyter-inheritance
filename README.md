@@ -1,5 +1,9 @@
 # Jupyter Inheritance
 
+![PyPI](https://badge.fury.io/py/jupyter-inheritance.svg)
+![Test](https://github.com/jancervenka/jupyter-inheritance/actions/workflows/test.yml/badge.svg)
+![Publish](https://github.com/jancervenka/jupyter-inheritance/actions/workflows/publish.yml/badge.svg)
+
 _Inherit Jupyter Kernels_
 
 You have a notebook `base.ipynb` with a cell 
